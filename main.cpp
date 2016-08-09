@@ -2,6 +2,7 @@
 #include<SFML/Graphics.hpp>
 #include<stdlib.h>
 #include<time.h>
+#include<math.h>
 
 
 using namespace std;
@@ -213,15 +214,6 @@ Event event;
 
 
 while(window.isOpen()){
-
-
-
-
-
-
-
-
-
 
 
 
